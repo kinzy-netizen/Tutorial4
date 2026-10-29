@@ -34,5 +34,5 @@ The purpose of this repository is to demonstrate how to create and manage a Git 
 
 \- Dawani Austin (@dawaniaustin16-max)
 
-
-
+## Classmate Contribution
+Dawani Austin assisted with the GitHub collaboration process by creating a branch and updating the README file.
